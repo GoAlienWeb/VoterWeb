@@ -12,7 +12,7 @@ var candidate =
 
 var party =
 [
-   ["R", "D", "I"],
+   ["R", "D", "L"],
  
  ];
  
