@@ -4,7 +4,7 @@ var race = ["Senate Seat"];
              
 var candidate =
 [
-   ["Padilla, Alex", "Meuser, Mark", "Multiple Candidates"],
+   ["Padilla, Alex", "Meuser, Mark", "Multiple Other Candidates"],
   
 ];
 
