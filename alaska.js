@@ -6,7 +6,7 @@ var race = ["District 1"];
              
 var candidate =
 [
-   ["Young, Don", "Independent or Third Party", "None"],
+   ["Young, Don", "Independent or Third Party", "No Third Party"],
    
 ];
 
