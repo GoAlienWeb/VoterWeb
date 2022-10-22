@@ -7,13 +7,13 @@ var race = ["District 1", "District 2", "District 3", "District 4",
              
 var candidate =
 [
-   ["Carl, Jerry", "Averhart, James"],
-   ["Moore, Barry", "Harvey-Hall, Phyllis"],
-   ["Rogers, Mike", "Winfrey, Adia"],
-   ["Aderholt, Robert", "Neighbors, Rick"],
-   ["Brooks, Mo"],
-   ["Palmer, Gary"],
-   ["Sewell, Terri"],
+   ["Carl, Jerry", "Averhart, James", "No Third Party"],
+   ["Moore, Barry", "Harvey-Hall, Phyllis", "No Third Party"],
+   ["Rogers, Mike", "Winfrey, Adia", "No Third Party"],
+   ["Aderholt, Robert", "Neighbors, Rick", "No Third Party"],
+   ["Brooks, Mo", "No Second Party", "No Third Party"],
+   ["Palmer, Gary", "No Second Party", "No Third Party"],
+   ["Sewell, Terri", "No Second Party", "No Third Party"],
    
 ];
 
