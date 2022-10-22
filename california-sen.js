@@ -4,13 +4,13 @@ var race = ["Senate Seat"];
              
 var candidate =
 [
-   ["Padilla, Alex", "Meuser, Mark", "Multiple Other Candidates"],
+   ["Padilla, Alex", "Meuser, Mark", "Multiple Candidates"],
   
 ];
 
 var party =
 [
-   ["D", "R", "L"],
+   ["D", "R", "I"],
          
  ];
  
