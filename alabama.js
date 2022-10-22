@@ -7,13 +7,13 @@ var race = ["District 1", "District 2", "District 3", "District 4",
              
 var candidate =
 [
-   ["Carl, Jerry", "Averhart, James", "No Third Party"],
-   ["Moore, Barry", "Harvey-Hall, Phyllis", "No Third Party"],
-   ["Rogers, Mike", "Winfrey, Adia", "No Third Party"],
-   ["Aderholt, Robert", "Neighbors, Rick", "No Third Party"],
-   ["Brooks, Mo", "No Second Party", "No Third Party"],
-   ["Palmer, Gary", "No Second Party", "No Third Party"],
-   ["Sewell, Terri", "No Second Party", "No Third Party"],
+   ["Carl, Jerry", "Averhart, James", "Multiple Candidates"],
+   ["Moore, Barry", "Harvey-Hall, Phyllis", "Multiple Candidates"],
+   ["Rogers, Mike", "Winfrey, Adia", "Multiple Candidates"],
+   ["Aderholt, Robert", "Neighbors, Rick", "Multiple Candidates"],
+   ["Brooks, Mo", "No Second Party", "Multiple Candidates"],
+   ["Palmer, Gary", "No Second Party", "Multiple Candidates"],
+   ["Sewell, Terri", "No Second Party", "Multiple Candidates"],
    
 ];
 
@@ -31,13 +31,13 @@ var party =
  
  var votes = 
  [
-   [211825, 116949, 0],
-   [197996, 105286, 0],
-   [217384, 104595, 0],
-   [261553, 56237,  0],
-   [10, 0, 0],
-   [10, 0, 0],
-   [10, 0, 0],
+   [211825, 116949, 301],
+   [197996, 105286, 287],
+   [217384, 104595, 255],
+   [261553, 56237,  239],
+   [253094, 0, 11066],
+   [274160, 0, 8101],
+   [0, 225742, 6589],
   
  ];
 
