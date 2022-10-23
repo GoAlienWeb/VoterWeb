@@ -7,8 +7,8 @@ var race = ["District 1", "District 2", "District 3", "District 4",
              
 var candidate =
 [
-   ["Hagedorn, Jim", "Feehan, Dan", "Multiple Other Candidates"],
-   ["Craig, Angie", "Kistner, Tyler", "Multiple Other Candidates"],
+   ["Hagedorn, Jim", "Feehan, Dan", "Rood, Bill"],
+   ["Craig, Angie", "Kistner, Tyler", "Multiple Candidates"],
    ["Phillips, Dean", "Qualls, Kendall", "Third Party"],
    ["McCollum, Betty", "Rechtzigel, Gene", "Multiple Other Candidates"],
    ["Omar, Ilhan", "Johnson, Lacy", "Multiple Other Candidates"],
@@ -19,14 +19,14 @@ var candidate =
 
 var party =
 [
-   ["R", "D", "I"],
-   ["D", "R", "I"],
-   ["D", "R", "I"],
-   ["D", "R", "I"],
-   ["D", "R", "I"],
-   ["R", "D", "I"],
-   ["R", "D", "I"],               
-   ["R", "D", "I"]
+   ["R", "D", "L"],
+   ["D", "R", "L"],
+   ["D", "R", "L"],
+   ["D", "R", "L"],
+   ["D", "R", "L"],
+   ["R", "D", "L"],
+   ["R", "D", "L"],               
+   ["R", "D", "L"]
  ];
  
  var votes = 
