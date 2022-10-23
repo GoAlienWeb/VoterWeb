@@ -7,7 +7,7 @@ var race = ["District 1", "District 2", "District 3", "District 4",
              
 var candidate =
 [
-   ["Hagedorn, Jim", "Feehan, Dan", "Rood, Bill"],
+   ["Hagedorn, Jim", "Feehan, Dan", "Multiple Candidates"],
    ["Craig, Angie", "Kistner, Tyler", "Multiple Candidates"],
    ["Phillips, Dean", "Qualls, Kendall", "Third Party"],
    ["McCollum, Betty", "Rechtzigel, Gene", "Multiple Other Candidates"],
