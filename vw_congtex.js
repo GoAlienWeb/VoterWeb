@@ -17,7 +17,7 @@ var race = ["District 1", "District 2", "District 3", "District 4",
              
 var candidate =
 [
-   ["Gohmert, Louie", "Gilbert, Hank", "Third Party"],
+   ["Gohmert, Louie", "Gilbert, Hank", "No Third Party"],
    ["Crenshaw, Dan", "Ladjevardian, Sima", "Scheirman, Elliott Robert"],
    ["Taylor, Van", "Seikaly, Lulu", "Claytor, Christopher"],
    ["Fallon, Pat", "Foster, Russell", "Antonelli, Lou"],
@@ -31,9 +31,9 @@ var candidate =
    ["Pfluger, August", "Hogg, Jon Mark", "Cody, Wacey Alpha"],
    ["Granger, Kay", "Welch, Lisa", "Holcomb, Trey"],
    ["Jackson, Ronny", "Trujillo, Gus", "Westbrook, Jack B."],
-   ["Weber, Randy", "Bell, Adrienne", "Third Party"],
+   ["Weber, Randy", "Bell, Adrienne", "No Third Party"],
    ["Gonzales, Vicente", "De La Cruz-Hernandez, Monica", "Leone, Ross Lynn"],
-   ["Escobar, Veronica", "Armendariz-Jackson, Irene", "Third Party"],
+   ["Escobar, Veronica", "Armendariz-Jackson, Irene", "No Third Party"],
    
    ["Sessions, Pete", "Kennedy, Rick", "Brown, Ted"],
    ["Lee, Sheila Jackson", "Champion, Wendell", "Multiple Third Party Candidates"],
