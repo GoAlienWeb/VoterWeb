@@ -1,6 +1,6 @@
 "use strict";
 
-var raceTitle = "Alabama Congressional Elections";
+var raceTitle = "Alabama Gubernatorial Election";
 
 var race = ["Governor"];
              
@@ -13,13 +13,7 @@ var candidate =
 var party =
 [
    ["R", "D", "I"],
-   ["R", "D", "I"],
-   ["R", "D", "I"],
-   ["R", "D", "I"],
-   ["R", "D", "I"],
-   ["R", "D", "I"],
-   ["D", "R", "I"],               
-  
+   
  ];
  
  var votes = 
